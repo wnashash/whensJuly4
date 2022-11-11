@@ -1,6 +1,6 @@
 #' @title Days Until Birthday
 #' @description A simple function to determine how many days are left until July 4th.
-#' @param date (Character) The target date in "YYYY-MM-DD" format. Defaults to the current date.
+#' @param date    (Character) The target date in "YYYY-MM-DD" format. Defaults to the current date.
 #' @details The description says it all!
 #' @return Returns a message with number of days left until July 4th.
 #' @author Walid Nashashibi (\url{https://github.com/wnashash/})
